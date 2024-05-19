@@ -42,7 +42,7 @@ Xilinx ISE (Integrated Synthesis Environment) 8.1i est un outil de développemen
 
 ## Utilisation
 
-1. **Synthèse et Simulation** :
+ **Synthèse et Simulation** :
    - Ouvrez les fichiers VHDL pour le half adder et le full adder.
    - Lancez la synthèse et la simulation dans Xilinx ISE 8.1i pour vérifier le fonctionnement des additionneurs.
   
