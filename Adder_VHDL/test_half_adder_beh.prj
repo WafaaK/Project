@@ -1,0 +1,2 @@
+vhdl work "Half_adder_design.vhd"
+vhdl work "test_half_adder.vhw"

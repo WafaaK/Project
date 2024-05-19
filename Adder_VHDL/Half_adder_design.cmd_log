@@ -1,0 +1,8 @@
+xst -ise "C:/Xilinx/Adder/Adder" -intstyle ise -ifn Half_adder_design.xst -ofn Half_adder_design.syr
+xst -ise "C:/Xilinx/Adder/Adder" -intstyle ise -ifn Half_adder_design.xst -ofn Half_adder_design.syr
+xst -ise "C:/Xilinx/Adder/Adder" -intstyle ise -ifn Half_adder_design.xst -ofn Half_adder_design.syr
+xst -ise "C:/Xilinx/Adder/Adder" -intstyle ise -ifn Half_adder_design.xst -ofn Half_adder_design.syr
+ngdbuild -ise "C:/Xilinx/Adder/Adder" -intstyle ise -dd _ngo -nt timestamp -i -p xc2s50e-ft256-6 Half_adder_design.ngc Half_adder_design.ngd
+map -ise "C:/Xilinx/Adder/Adder" -intstyle ise -p xc2s50e-ft256-6 -cm area -pr b -k 4 -c 100 -tx off -o Half_adder_design_map.ncd Half_adder_design.ngd Half_adder_design.pcf
+par -ise "C:/Xilinx/Adder/Adder" -w -intstyle ise -ol std -t 1 Half_adder_design_map.ncd Half_adder_design.ncd Half_adder_design.pcf
+trce -ise "C:/Xilinx/Adder/Adder" -intstyle ise -e 3 -l 3 -s 6 -xml Half_adder_design Half_adder_design.ncd -o Half_adder_design.twr Half_adder_design.pcf

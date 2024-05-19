@@ -1,0 +1,1 @@
+xst -ise "C:/Xilinx/Adder/Adder" -intstyle ise -ifn Full_adder_design.xst -ofn Full_adder_design.syr

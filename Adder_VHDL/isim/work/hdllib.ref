@@ -1,0 +1,8 @@
+EN test_half_adder NULL C:/Xilinx/Adder/test_half_adder.vhw sub00/vhpl02 1715932372
+AR half_adder_design behavioral C:/Xilinx/Adder/Half_adder_design.vhd sub00/vhpl01 1715277544
+AR full_adder_design behavioral C:/Xilinx/Adder/Full_adder_design.vhd sub00/vhpl05 1715279503
+EN test_full_adder NULL C:/Xilinx/Adder/test_full_adder.vhw sub00/vhpl06 1715589598
+EN full_adder_design NULL C:/Xilinx/Adder/Full_adder_design.vhd sub00/vhpl04 1715279502
+AR test_half_adder testbench_arch C:/Xilinx/Adder/test_half_adder.vhw sub00/vhpl03 1715932373
+EN half_adder_design NULL C:/Xilinx/Adder/Half_adder_design.vhd sub00/vhpl00 1715277543
+AR test_full_adder testbench_arch C:/Xilinx/Adder/test_full_adder.vhw sub00/vhpl07 1715589599

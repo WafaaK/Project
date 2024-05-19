@@ -1,0 +1,29 @@
+ command line:
+   ./test_full_adder_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  62734
+
+Fri May 17 10:52:16 2024
+
+Total Line Count = 766
+
+ Elaboration time 0.015625 sec.
+
+ Estimate current memory usage 73.5642 Meg. 
+
+ Total signals 10
+ Total nets 5
+ Total signal drivers 5
+ Total blocks 7
+ Total primitive blocks 1
+ Total processes 3
+ntrace select -o on -n /test_full_adder/x 
+ntrace select -o on -n /test_full_adder/y 
+ntrace select -o on -n /test_full_adder/c_in 
+ntrace select -o on -n /test_full_adder/c_out 
+ntrace select -o on -n /test_full_adder/s 
+ntrace start 
+run all 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

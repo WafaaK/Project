@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+Half_adder_design instance_name (
+    .x(x), 
+    .y(y), 
+    .c(c), 
+    .s(s)
+    );
+
+

@@ -1,0 +1,4 @@
+AR half_adder_design behavioral C:/Xilinx/Adder/Half_adder_design.vhd sub00/vhpl01 1715932361
+AR full_adder_design behavioral C:/Xilinx/Adder/Full_adder_design.vhd sub00/vhpl03 1715939526
+EN full_adder_design NULL C:/Xilinx/Adder/Full_adder_design.vhd sub00/vhpl02 1715939525
+EN half_adder_design NULL C:/Xilinx/Adder/Half_adder_design.vhd sub00/vhpl00 1715932360

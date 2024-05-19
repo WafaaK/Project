@@ -1,0 +1,3 @@
+MODULE test_half_adder
+SUBMODULE Half_adder_design
+INSTANCE UUT

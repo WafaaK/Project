@@ -1,0 +1,20 @@
+Release 8.1i ngdbuild I.24
+Copyright (c) 1995-2005 Xilinx, Inc.  All rights reserved.
+
+Command Line: ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p
+xc2s50e-ft256-6 Half_adder_design.ngc Half_adder_design.ngd 
+
+Reading NGO file 'C:/Xilinx/Adder/Half_adder_design.ngc' ...
+
+Checking timing specifications ...
+Checking expanded design ...
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 108724 kilobytes
+
+Writing NGD file "Half_adder_design.ngd" ...
+
+Writing NGDBUILD log file "Half_adder_design.bld"...

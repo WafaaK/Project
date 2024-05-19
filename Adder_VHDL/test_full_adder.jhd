@@ -1,0 +1,3 @@
+MODULE test_full_adder
+SUBMODULE Full_adder_design
+INSTANCE UUT

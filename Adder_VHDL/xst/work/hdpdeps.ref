@@ -1,0 +1,13 @@
+V3 6
+FL $XILINX/Adder/Full_adder_design.vhd 2024/05/09.19:15:56 I.24
+EN work/Full_adder_design 1715939525 FL $XILINX/Adder/Full_adder_design.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Full_adder_design/Behavioral 1715939526 FL $XILINX/Adder/Full_adder_design.vhd \
+      EN work/Full_adder_design 1715939525
+FL $XILINX/Adder/Half_adder_design.vhd 2024/05/09.18:38:26 I.24
+EN work/Half_adder_design 1715932360 FL $XILINX/Adder/Half_adder_design.vhd \
+      PB ieee/std_logic_1164 1131108373 PB ieee/std_logic_arith 1131108375 \
+      PB ieee/STD_LOGIC_UNSIGNED 1131108379
+AR work/Half_adder_design/Behavioral 1715932361 FL $XILINX/Adder/Half_adder_design.vhd \
+      EN work/Half_adder_design 1715932360
